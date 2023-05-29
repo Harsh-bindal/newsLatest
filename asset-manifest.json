@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/newsLatest/static/js/main.286dd043.js",
+    "static/media/loading.gif": "/newsLatest/static/media/loading.0f2c83efc9619b014755.gif",
+    "index.html": "/newsLatest/index.html",
+    "main.286dd043.js.map": "/newsLatest/static/js/main.286dd043.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.286dd043.js"
+  ]
+}
